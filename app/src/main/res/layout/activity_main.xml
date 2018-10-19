@@ -19,5 +19,9 @@
         android:layout_height="wrap_content"
         android:layout_gravity="center"
         android:text="Project Diva"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="lih"/>
 
 </android.support.constraint.ConstraintLayout>
